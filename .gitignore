@@ -1,0 +1,7 @@
+.venv/
+node_modules/
+dist/
+*.sqlite*
+__pycache__/
+.env
+data/transactions.db
