@@ -43,3 +43,5 @@ docker run -p 5173:5173 -t front
 ```
 
 Altough npm commands for running frontend from README.md might work, I use docker.
+
+Done in approximately 60 minutes.
